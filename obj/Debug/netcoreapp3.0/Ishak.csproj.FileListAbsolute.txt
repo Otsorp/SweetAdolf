@@ -1,0 +1,11 @@
+C:\Users\Kat_Otsorp\source\repos\Ishak\obj\Debug\netcoreapp3.0\Ishak.csprojAssemblyReference.cache
+C:\Users\Kat_Otsorp\source\repos\Ishak\obj\Debug\netcoreapp3.0\Ishak.AssemblyInfoInputs.cache
+C:\Users\Kat_Otsorp\source\repos\Ishak\obj\Debug\netcoreapp3.0\Ishak.AssemblyInfo.cs
+C:\Users\Kat_Otsorp\source\repos\Ishak\bin\Debug\netcoreapp3.0\Ishak.exe
+C:\Users\Kat_Otsorp\source\repos\Ishak\bin\Debug\netcoreapp3.0\Ishak.deps.json
+C:\Users\Kat_Otsorp\source\repos\Ishak\bin\Debug\netcoreapp3.0\Ishak.runtimeconfig.json
+C:\Users\Kat_Otsorp\source\repos\Ishak\bin\Debug\netcoreapp3.0\Ishak.runtimeconfig.dev.json
+C:\Users\Kat_Otsorp\source\repos\Ishak\bin\Debug\netcoreapp3.0\Ishak.dll
+C:\Users\Kat_Otsorp\source\repos\Ishak\bin\Debug\netcoreapp3.0\Ishak.pdb
+C:\Users\Kat_Otsorp\source\repos\Ishak\obj\Debug\netcoreapp3.0\Ishak.dll
+C:\Users\Kat_Otsorp\source\repos\Ishak\obj\Debug\netcoreapp3.0\Ishak.pdb
